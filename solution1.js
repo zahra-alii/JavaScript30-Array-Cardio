@@ -5,3 +5,7 @@ const fifteen = inventors.filter(function(inventor){
   }
 });
 console.table(fifteen);
+
+/* SOLUTION EXPLAINED:
+- CB function takes in new variable/object (inventor)
+- create conditions to target inventors born in 1500s using myObject.myMethod(inventor.year) */
