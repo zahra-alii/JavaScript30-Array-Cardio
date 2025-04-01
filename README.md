@@ -29,6 +29,7 @@ Set of JavaScript array challenges and solutions using various array methods (.m
       ];
       </script>
 
+
 /* ARRAY CARDIO PROBLEMS:
 
 1. Filter the list of inventors for those who were born in the 1500's.
@@ -41,4 +42,8 @@ Set of JavaScript array challenges and solutions using various array methods (.m
 
 5. Sort the inventors by years lived (oldest to youngest)
 
-6. Sort the people alphabetically (in order) by last name */
+6. Sort the people alphabetically (in order) by last name
+
+7. Sum up the instances of each of these -->       const data = ['car', 'car', 'truck', 'truck', 'bike', 'walk', 'car', 'van', 'bike', 'walk', 'car', 'van', 'car', 'truck' ];
+
+*/
